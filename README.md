@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=puppy970520)](https://solved.ac/puppy970520)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gudwns97)](https://solved.ac/gudwns97)
 
 
 <!--
